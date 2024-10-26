@@ -9,5 +9,5 @@ The tidyverse package in R is a collection of packages designed for data science
 >library(tidyverse)
 if you need documentation of any function of r then write this. Here for print function
 > ?print()
-> 
+> vector_1 <- c(12,13,14)
 
