@@ -148,6 +148,9 @@ $`Los Angeles`
 
 [1] 3
 
+https://www.coursera.org/learn/data-analysis-r/supplement/7dRY6/vectors-and-lists-in-r
+
+
 
 
 
