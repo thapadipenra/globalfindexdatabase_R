@@ -13,6 +13,7 @@ if you need documentation of any function of r then write this. Here for print f
 > pipes in r works same as in linux command pipe, outcome of one function is send as input of another   %>%
 > Vectors
 
+
 Data frames
 
 Matrices
